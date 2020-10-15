@@ -1,11 +1,5 @@
 # DataMining2020
-Materials for my Data Mining Class in 2020
+Materials for my Data Mining for Security Applications Class in 2020.
 
-# Schedule
+All materials are organized by weeks. Clone and merge into your own repository.
 
-## Week 1
-### Lecture
-* no lecture in the first week
-### Lab
-* Slides 
-* ...
